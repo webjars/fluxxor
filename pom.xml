@@ -24,7 +24,8 @@
         <requirejs>
             {
                 "paths": {
-                    "fluxxor": "fluxxor"
+                    "fluxxor"     : "fluxxor",
+                    "fluxxor.min" : "fluxxor.min"
                 }
             }
         </requirejs>
