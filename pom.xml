@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>fluxxor</artifactId>
-    <version>1.3.2-SNAPSHOT</version>
+    <version>1.3.2</version>
     <name>Fluxxor</name>
     <description>WebJar for Fluxxor</description>
     <url>http://webjars.org</url>
@@ -56,7 +56,7 @@
         <url>http://github.com/webjars/fluxxor</url>
         <connection>scm:git:https://github.com/webjars/fluxxor.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/fluxxor.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>fluxxor-1.3.2</tag>
     </scm>
     
     <build>
